@@ -13,9 +13,10 @@ https://github.com/Vovkiv/donuts-ukr
 
 Переклад же виконав я, пан Volkov. Приємного читання!
 #
-Якщо помітили очепятку, погано шмат тексту, є якісь побажання, то ви можете:
+Якщо помітили очепятку, погано перекладений шмат тексту, є якісь побажання?
+Тоді ви можете:
 1. Відкрити новий ішшує: https://github.com/Vovkiv/donuts-ukr/issues/new
-2. Написати на пошту: volkovissocool@gmail.com
+2. Написати мені на пошту: volkovissocool@gmail.com
 3. Написати мені на фімфікшен https://www.fimfiction.net/user/595939/volkov
 
 #
