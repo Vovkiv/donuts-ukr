@@ -20,6 +20,9 @@ https://github.com/Vovkiv/donuts-ukr
 3. Написати мені на фімфікшен https://www.fimfiction.net/user/595939/volkov
 
 #
+Original fic: https://www.fimfiction.net/story/469964/donuts
+
+#
 Original cover: https://www.deviantart.com/kp-shadowsquirrel/art/Speedpaint-45-Donut-Joe-547191427
 
 # 
