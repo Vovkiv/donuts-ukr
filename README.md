@@ -24,7 +24,7 @@ Original fic: https://www.fimfiction.net/story/469964/donuts
 
 #
 Original cover: https://www.deviantart.com/kp-shadowsquirrel/art/Speedpaint-45-Donut-Joe-547191427
-
+If you, kp-shadowsquirrel, not okay with this, refer here: https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/README.md#im-artist-for-coverarts-that-you-used-in-your-translated-fic-and-im-not-happy-about-it
 # 
 Слідкувати за процесом перекладу можна тут:
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
