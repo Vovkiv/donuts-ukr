@@ -16,7 +16,7 @@ https://github.com/Vovkiv/donuts-ukr
 Якщо помітили очепятку, погано перекладений шмат тексту, є якісь побажання?
 Тоді ви можете написати мені!
 
-Ось контакти: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/edit/main/README.md#contacts)
+Ось контакти: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
 
 #
 Original fic: https://www.fimfiction.net/story/469964/donuts
