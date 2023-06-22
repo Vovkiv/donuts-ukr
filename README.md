@@ -14,10 +14,9 @@ https://github.com/Vovkiv/donuts-ukr
 Переклад же виконав я, пан Volkov. Приємного читання!
 #
 Якщо помітили очепятку, погано перекладений шмат тексту, є якісь побажання?
-Тоді ви можете:
-1. Відкрити новий ішшує: https://github.com/Vovkiv/donuts-ukr/issues/new
-2. Написати мені на пошту: volkovissocool@gmail.com
-3. Написати мені на фімфікшен https://www.fimfiction.net/user/595939/volkov
+Тоді ви можете написати мені!
+
+Ось контакти: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/edit/main/README.md#contacts)
 
 #
 Original fic: https://www.fimfiction.net/story/469964/donuts
@@ -25,7 +24,7 @@ Original fic: https://www.fimfiction.net/story/469964/donuts
 #
 Original cover: https://www.deviantart.com/kp-shadowsquirrel/art/Speedpaint-45-Donut-Joe-547191427
 
-If you, kp-shadowsquirrel, not okay with this, refer to this, there contact info: https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/README.md#im-artist-for-coverarts-that-you-used-in-your-translated-fic-and-im-not-happy-about-it
+If you, kp-shadowsquirrel, not okay with this, refer to this, there contact info: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/edit/main/README.md#contacts)
 # 
 Слідкувати за процесом перекладу можна тут:
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
