@@ -1,1 +1,1 @@
-Here will be stored old version of translated fic.
+Here will be stored old versions of translated fic.
