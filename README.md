@@ -33,11 +33,11 @@
 3. Браузер почне завантажувати файл.
 4. Як тільки завантаження завершиться, можете відкривати файл у вашому улюбленому переглядачі документів!
 
-# Контакти
+# Контакти:
 Якщо помітили очепятку, погано перекладений шмат тексту, є якісь побажання?
 Тоді ви можете написати мені тут: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
 
-# Original fic
+# Original fic:
 https://www.fimfiction.net/story/469964/donuts
 
 # Original cover:
@@ -45,8 +45,8 @@ https://www.deviantart.com/kp-shadowsquirrel/art/Speedpaint-45-Donut-Joe-5471914
 
 If you, kp-shadowsquirrel, not okay with this, refer to this, there contact info: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
 
-# Слідкувати за процесом перекладу можна тут
+# Слідкувати за процесом перекладу і іншими фанфіками, які я вже переклав можна тут:
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
 
-# Гітхаб теги
+# Гітхаб теги:
 translation fanfiction mlp ukrainian volkov
