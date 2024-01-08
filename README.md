@@ -1,10 +1,10 @@
 # Пончики - Українською
-![обкладинка](https://raw.githubusercontent.com/Vovkiv/donuts-ukr/main/src/cover-ukr.png?raw=true)
+![](src/cover-ukr.png)
 
 Це коротка історія про Старлайт Глімер, яка пішла попрацювати цілий день у пончиковій крамниці Джо.
 
 # Як відкрити? Де фанфік?
-пдф файл: https://github.com/Vovkiv/donuts-ukr/blob/main/Donuts%20-%20Ukr.pdf
+[пдф файл](Donuts%20-%20Ukr.pdf)
 
 Ви його можете одразу читати його у гітхабі, або можете завантажити.
 
@@ -29,15 +29,15 @@
 Тоді ви можете написати мені тут: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
 
 # Original fic:
-https://www.fimfiction.net/story/469964/donuts
+[https://www.fimfiction.net/story/469964/donuts](https://www.fimfiction.net/story/469964/donuts)
 
 # Original cover:
-https://www.deviantart.com/kp-shadowsquirrel/art/Speedpaint-45-Donut-Joe-547191427
+[https://www.deviantart.com/kp-shadowsquirrel/art/Speedpaint-45-Donut-Joe-547191427](https://www.deviantart.com/kp-shadowsquirrel/art/Speedpaint-45-Donut-Joe-547191427)
 
 If you, kp-shadowsquirrel, not okay with this, refer to this, there contact info: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
 
 # Слідкувати за процесом перекладу і іншими фанфіками, які я вже переклав можна тут:
-https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
+[https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate)
 
 # Гітхаб теги:
 translation fanfiction mlp ukrainian volkov
